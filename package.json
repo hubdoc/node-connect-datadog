@@ -1,20 +1,20 @@
 {
-	"name": "connect-datadog",
-	"version": "0.0.6",
-	"description": "Datadog middleware for Connect JS / Express",
-	"main": "index.js",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/AppPress/node-connect-datadog.git"
-	},
-	"keywords": [
-		"datadog",
-		"middleware"
-	],
-	"author": "App Press",
-	"license": "MIT",
-	"readmeFilename": "README.md",
-	"dependencies": {
-		"node-dogstatsd": "0.0.6"
-	}
+  "name": "connect-datadog",
+  "version": "0.0.6",
+  "description": "Datadog middleware for Connect JS / Express",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hubdoc/node-connect-datadog.git"
+  },
+  "keywords": [
+    "datadog",
+    "middleware"
+  ],
+  "author": "App Press",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "hot-shots": "^3.1.0"
+  }
 }
