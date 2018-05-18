@@ -1,5 +1,5 @@
 {
-  "name": "connect-datadog",
+  "name": "@hubdoc/connect-datadog",
   "version": "0.0.8",
   "description": "Datadog middleware for Connect JS / Express",
   "main": "index.js",
@@ -16,5 +16,9 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "hot-shots": "^3.1.0"
+  },
+ "publishConfig": {
+    "registry": "https://hubdoc.jfrog.io/hubdoc/api/npm/npm-local/"
   }
+ 
 }
